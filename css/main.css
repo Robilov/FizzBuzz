@@ -6,6 +6,7 @@ input {
 }
 
 .fizz-block {
+    height: 200px;
     margin-top: 100px;
     border-radius: 25px;
 }
